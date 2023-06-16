@@ -1,0 +1,44 @@
+{
+  "plugin_name": {
+    "message": "حامي الخصوصية للصور"
+  },
+  "plugin_description": {
+    "message": "انقر بزر الماوس الأيمن لنسخ أو تنزيل صورة الخصوصية المعززة المُعاد إنشاؤها ويمكن تحويلها بناءً على التنسيق والجودة والتدرج وغيرها."
+  },
+  "menu_private_copy": {
+    "message": "نسخ الخصوصية"
+  },
+  "menu_private_download": {
+    "message": "تنزيل الخصوصية"
+  },
+  "popup_option_image_format": {
+    "message": "تنسيق الصورة"
+  },
+  "popup_option_image_scaling": {
+    "message": "تدرج الصورة"
+  },
+  "popup_option_image_flipping": {
+    "message": "انعكاس الصورة"
+  },
+  "popup_option_image_flipping_horizontal": {
+    "message": "أفقي"
+  },
+  "popup_option_image_flipping_vertical": {
+    "message": "عمودي"
+  },
+  "popup_option_image_rotation": {
+    "message": "دوران الصورة"
+  },
+  "popup_option_image_quality": {
+    "message": "جودة الصورة"
+  },
+  "popup_image_format": {
+    "message": "تنسيق الصورة"
+  },
+  "popup_image_name": {
+    "message": "اسم الصورة"
+  },
+  "popup_operation_clear_storage": {
+    "message": "مسح التخزين المؤقت"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "plugin_name": {
+    "message": "图片隐私卫士"
+  },
+  "plugin_description": {
+    "message": "右键点击以复制或下载重新生成的隐私增强图像，并可进行格式、质量、缩放等转换。"
+  },
+  "menu_private_copy": {
+    "message": "隐私复制"
+  },
+  "menu_private_download": {
+    "message": "隐私下载"
+  },
+  "popup_option_image_format": {
+    "message": "图片格式"
+  },
+  "popup_option_image_scaling": {
+    "message": "图片缩放"
+  },
+  "popup_option_image_flipping": {
+    "message": "图片翻转"
+  },
+  "popup_option_image_flipping_horizontal": {
+    "message": "水平翻转"
+  },
+  "popup_option_image_flipping_vertical": {
+    "message": "垂直翻转"
+  },
+  "popup_option_image_rotation": {
+    "message": "图片旋转"
+  },
+  "popup_option_image_quality": {
+    "message": "图片质量"
+  },
+  "popup_image_format": {
+    "message": "图片格式"
+  },
+  "popup_image_name": {
+    "message": "图片名称"
+  },
+  "popup_operation_clear_storage": {
+    "message": "清除缓存"
+  }
+}

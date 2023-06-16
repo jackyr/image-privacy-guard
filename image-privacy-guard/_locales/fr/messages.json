@@ -1,0 +1,44 @@
+{
+  "plugin_name": {
+    "message": "Gardien de confidentialité des images"
+  },
+  "plugin_description": {
+    "message": "Cliquez avec le bouton droit pour copier ou télécharger une image améliorée avec confidentialité, et effectuez des conversions de format, de qualité, de redimensionnement, etc."
+  },
+  "menu_private_copy": {
+    "message": "Copie privée"
+  },
+  "menu_private_download": {
+    "message": "Téléchargement privé"
+  },
+  "popup_option_image_format": {
+    "message": "Format de l'image"
+  },
+  "popup_option_image_scaling": {
+    "message": "Redimensionnement de l'image"
+  },
+  "popup_option_image_flipping": {
+    "message": "Retournement de l'image"
+  },
+  "popup_option_image_flipping_horizontal": {
+    "message": "horizontal"
+  },
+  "popup_option_image_flipping_vertical": {
+    "message": "vertical"
+  },
+  "popup_option_image_rotation": {
+    "message": "Rotation de l'image"
+  },
+  "popup_option_image_quality": {
+    "message": "Qualité de l'image"
+  },
+  "popup_image_format": {
+    "message": "Format de l'image"
+  },
+  "popup_image_name": {
+    "message": "Nom de l'image"
+  },
+  "popup_operation_clear_storage": {
+    "message": "Effacer le stockage"
+  }
+}

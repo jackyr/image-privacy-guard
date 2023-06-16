@@ -1,0 +1,44 @@
+{
+  "plugin_name": {
+    "message": "Image Privacy Guard"
+  },
+  "plugin_description": {
+    "message": "Right-click to copy or download the regenerated privacy-enhanced image, and perform conversions for format, scaling and more."
+  },
+  "menu_private_copy": {
+    "message": "Privacy Copy"
+  },
+  "menu_private_download": {
+    "message": "Privacy Download"
+  },
+  "popup_option_image_format": {
+    "message": "Image format"
+  },
+  "popup_option_image_scaling": {
+    "message": "Image scaling"
+  },
+  "popup_option_image_flipping": {
+    "message": "Image flipping"
+  },
+  "popup_option_image_flipping_horizontal": {
+    "message": "horizontal"
+  },
+  "popup_option_image_flipping_vertical": {
+    "message": "vertical"
+  },
+  "popup_option_image_rotation": {
+    "message": "Image rotation"
+  },
+  "popup_option_image_quality": {
+    "message": "Image quality"
+  },
+  "popup_image_format": {
+    "message": "Image format"
+  },
+  "popup_image_name": {
+    "message": "Image name"
+  },
+  "popup_operation_clear_storage": {
+    "message": "Clear Cache"
+  }
+}

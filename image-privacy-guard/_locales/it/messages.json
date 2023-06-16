@@ -1,0 +1,44 @@
+{
+  "plugin_name": {
+    "message": "Protettore della privacy delle immagini"
+  },
+  "plugin_description": {
+    "message": "Fai clic con il pulsante destro del mouse per copiare o scaricare un'immagine con miglioramenti alla privacy rigenerata e apportare conversioni come formato, qualità, ridimensionamento, ecc."
+  },
+  "menu_private_copy": {
+    "message": "Copia privacy"
+  },
+  "menu_private_download": {
+    "message": "Scarica privacy"
+  },
+  "popup_option_image_format": {
+    "message": "Formato immagine"
+  },
+  "popup_option_image_scaling": {
+    "message": "Ridimensionamento immagine"
+  },
+  "popup_option_image_flipping": {
+    "message": "Capovolgimento immagine"
+  },
+  "popup_option_image_flipping_horizontal": {
+    "message": "orizzontale"
+  },
+  "popup_option_image_flipping_vertical": {
+    "message": "verticale"
+  },
+  "popup_option_image_rotation": {
+    "message": "Rotazione immagine"
+  },
+  "popup_option_image_quality": {
+    "message": "Qualità immagine"
+  },
+  "popup_image_format": {
+    "message": "Formato immagine"
+  },
+  "popup_image_name": {
+    "message": "Nome immagine"
+  },
+  "popup_operation_clear_storage": {
+    "message": "Cancella cache"
+  }
+}

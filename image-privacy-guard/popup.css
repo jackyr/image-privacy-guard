@@ -1,0 +1,56 @@
+body {
+  width: 200px;
+}
+input {
+  margin: 0;
+  width: 165px;
+}
+select {
+  width: 100px;
+}
+.item {
+  margin: 10px 0;
+  overflow: hidden;
+}
+.optionWrap .item {
+  display: flex;
+  justify-content: space-between;
+}
+.optionWrap .item:last-of-type {
+  flex-direction: column;
+  gap: 5px;
+}
+.itemContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.imageWrapper {
+  border-top: 1px solid #dfdfdf;
+  padding-top: 10px;
+}
+.imageWrapper div {
+  word-break: break-all;
+  line-height: 1.5;
+}
+.img {
+  display: block;
+  margin: 0 auto 5px;
+  max-width: 200px;
+  max-height: 200px;
+}
+.operationWrapper {
+  border-top: 1px solid #dfdfdf;
+  padding-top: 8px;
+  height: 16px;
+  overflow: hidden;
+}
+.clear {
+  margin-top: -2px;
+  float: left;
+  font-size: 0;
+}
+.support {
+  float: right;
+  font-size: 0;
+}

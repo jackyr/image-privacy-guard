@@ -1,0 +1,44 @@
+{
+  "plugin_name": {
+    "message": "Protector de privacidad de imágenes"
+  },
+  "plugin_description": {
+    "message": "Haz clic derecho para copiar o descargar la imagen mejorada con privacidad generada nuevamente y realizar conversiones de formato, calidad, escala, etc."
+  },
+  "menu_private_copy": {
+    "message": "Copiar privacidad"
+  },
+  "menu_private_download": {
+    "message": "Descargar privacidad"
+  },
+  "popup_option_image_format": {
+    "message": "Formato de imagen"
+  },
+  "popup_option_image_scaling": {
+    "message": "Escalado de imagen"
+  },
+  "popup_option_image_flipping": {
+    "message": "Volteo de imagen"
+  },
+  "popup_option_image_flipping_horizontal": {
+    "message": "horizontal"
+  },
+  "popup_option_image_flipping_vertical": {
+    "message": "vertical"
+  },
+  "popup_option_image_rotation": {
+    "message": "Rotación de imagen"
+  },
+  "popup_option_image_quality": {
+    "message": "Calidad de imagen"
+  },
+  "popup_image_format": {
+    "message": "Formato de imagen"
+  },
+  "popup_image_name": {
+    "message": "Nombre de la imagen"
+  },
+  "popup_operation_clear_storage": {
+    "message": "Limpiar almacenamiento"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_plugin_name__",
+  "description": "__MSG_plugin_description__",
+  "version": "1.0.0",
+  "default_locale": "en",
+  "permissions": ["contextMenus", "scripting", "activeTab", "storage", "unlimitedStorage", "downloads"],
+  "host_permissions": ["*://*/*"],
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}

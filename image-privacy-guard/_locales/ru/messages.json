@@ -1,0 +1,44 @@
+{
+  "plugin_name": {
+    "message": "Защита конфиденциальности изображения"
+  },
+  "plugin_description": {
+    "message": "Щелкните правой кнопкой мыши, чтобы скопировать или загрузить обработанное изображение с повышенной конфиденциальностью и выполнить преобразования, такие как изменение формата, качества, масштабирования и т. д."
+  },
+  "menu_private_copy": {
+    "message": "Скопировать конфиденциально"
+  },
+  "menu_private_download": {
+    "message": "Скачать конфиденциально"
+  },
+  "popup_option_image_format": {
+    "message": "Формат изображения"
+  },
+  "popup_option_image_scaling": {
+    "message": "Масштабирование изображения"
+  },
+  "popup_option_image_flipping": {
+    "message": "Переворот изображения"
+  },
+  "popup_option_image_flipping_horizontal": {
+    "message": "горизонтальный"
+  },
+  "popup_option_image_flipping_vertical": {
+    "message": "вертикальны"
+  },
+  "popup_option_image_rotation": {
+    "message": "Поворот изображения"
+  },
+  "popup_option_image_quality": {
+    "message": "Качество изображения"
+  },
+  "popup_image_format": {
+    "message": "Формат изображения"
+  },
+  "popup_image_name": {
+    "message": "Имя изображения"
+  },
+  "popup_operation_clear_storage": {
+    "message": "Очистить кэш"
+  }
+}

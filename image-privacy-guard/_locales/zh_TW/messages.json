@@ -1,0 +1,44 @@
+{
+  "plugin_name": {
+    "message": "圖片隱私衛士"
+  },
+  "plugin_description": {
+    "message": "右鍵點擊可複製或下載重新生成的隱私增強圖片，並可進行格式、畫質、縮放等轉換。"
+  },
+  "menu_private_copy": {
+    "message": "隱私複製"
+  },
+  "menu_private_download": {
+    "message": "隱私下載"
+  },
+  "popup_option_image_format": {
+    "message": "圖片格式"
+  },
+  "popup_option_image_scaling": {
+    "message": "圖片縮放"
+  },
+  "popup_option_image_flipping": {
+    "message": "圖片翻轉"
+  },
+  "popup_option_image_flipping_horizontal": {
+    "message": "水平翻轉"
+  },
+  "popup_option_image_flipping_vertical": {
+    "message": "垂直翻轉"
+  },
+  "popup_option_image_rotation": {
+    "message": "圖片旋轉"
+  },
+  "popup_option_image_quality": {
+    "message": "圖片品質"
+  },
+  "popup_image_format": {
+    "message": "圖片格式"
+  },
+  "popup_image_name": {
+    "message": "圖片名稱"
+  },
+  "popup_operation_clear_storage": {
+    "message": "清除緩存"
+  }
+}

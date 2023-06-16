@@ -1,0 +1,44 @@
+{
+  "plugin_name": {
+    "message": "이미지 프라이버시 가드"
+  },
+  "plugin_description": {
+    "message": "우클릭하여 재생성된 개인 정보 강화 이미지를 복사하거나 다운로드하고, 형식, 품질, 축소 등의 변환을 수행할 수 있습니다."
+  },
+  "menu_private_copy": {
+    "message": "개인 정보 복사"
+  },
+  "menu_private_download": {
+    "message": "개인 정보 다운로드"
+  },
+  "popup_option_image_format": {
+    "message": "이미지 형식"
+  },
+  "popup_option_image_scaling": {
+    "message": "이미지 축소"
+  },
+  "popup_option_image_flipping": {
+    "message": "이미지 뒤집기"
+  },
+  "popup_option_image_flipping_horizontal": {
+    "message": "수평 뒤집기"
+  },
+  "popup_option_image_flipping_vertical": {
+    "message": "수직 뒤집기"
+  },
+  "popup_option_image_rotation": {
+    "message": "이미지 회전"
+  },
+  "popup_option_image_quality": {
+    "message": "이미지 품질"
+  },
+  "popup_image_format": {
+    "message": "이미지 형식"
+  },
+  "popup_image_name": {
+    "message": "이미지 이름"
+  },
+  "popup_operation_clear_storage": {
+    "message": "캐시 지우기"
+  }
+}

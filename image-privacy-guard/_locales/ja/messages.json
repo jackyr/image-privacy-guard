@@ -1,0 +1,44 @@
+{
+  "plugin_name": {
+    "message": "画像プライバシーガード"
+  },
+  "plugin_description": {
+    "message": "右クリックでプライバシーエンハンス画像をコピーまたはダウンロードし、形式、品質、スケーリングなどの変換を行うことができます。"
+  },
+  "menu_private_copy": {
+    "message": "プライバシーコピー"
+  },
+  "menu_private_download": {
+    "message": "プライバシーダウンロード"
+  },
+  "popup_option_image_format": {
+    "message": "画像形式"
+  },
+  "popup_option_image_scaling": {
+    "message": "画像スケーリング"
+  },
+  "popup_option_image_flipping": {
+    "message": "画像反転"
+  },
+  "popup_option_image_flipping_horizontal": {
+    "message": "水平反転"
+  },
+  "popup_option_image_flipping_vertical": {
+    "message": "垂直反転"
+  },
+  "popup_option_image_rotation": {
+    "message": "画像回転"
+  },
+  "popup_option_image_quality": {
+    "message": "画像品質"
+  },
+  "popup_image_format": {
+    "message": "画像形式"
+  },
+  "popup_image_name": {
+    "message": "画像名"
+  },
+  "popup_operation_clear_storage": {
+    "message": "キャッシュをクリア"
+  }
+}

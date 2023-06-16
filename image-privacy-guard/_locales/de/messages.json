@@ -1,0 +1,44 @@
+{
+  "plugin_name": {
+    "message": "Bild Datenschutzassistent"
+  },
+  "plugin_description": {
+    "message": "Klicken Sie mit der rechten Maustaste, um das neu generierte Datenschutz verbesserte Bild zu kopieren oder herunterzuladen und konvertieren Sie es in verschiedene Formate, Qualitätseinstellungen und Skalierungen."
+  },
+  "menu_private_copy": {
+    "message": "Datenschutz Kopieren"
+  },
+  "menu_private_download": {
+    "message": "Datenschutz Herunterladen"
+  },
+  "popup_option_image_format": {
+    "message": "Bildformat"
+  },
+  "popup_option_image_scaling": {
+    "message": "Bildskalierung"
+  },
+  "popup_option_image_flipping": {
+    "message": "Bildumkehrung"
+  },
+  "popup_option_image_flipping_horizontal": {
+    "message": "horizontal"
+  },
+  "popup_option_image_flipping_vertical": {
+    "message": "vertikal"
+  },
+  "popup_option_image_rotation": {
+    "message": "Bildrotation"
+  },
+  "popup_option_image_quality": {
+    "message": "Bildqualität"
+  },
+  "popup_image_format": {
+    "message": "Bildformat"
+  },
+  "popup_image_name": {
+    "message": "Bildname"
+  },
+  "popup_operation_clear_storage": {
+    "message": "Speicher löschen"
+  }
+}
