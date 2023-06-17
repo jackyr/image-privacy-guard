@@ -80,7 +80,6 @@ chrome.runtime.onMessage.addListener(async message => {
 
   const { format, dataUrl, originalName } = await chrome.storage.local.get();
   if (message.action === 'download') {
-    console.log(`${originalName}.${format.replace('image/', '')}`)
     chrome.downloads.download({
       url: dataUrl,
       filename: `${originalName}.${format.replace('image/', '')}`,
