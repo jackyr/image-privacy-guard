@@ -4,9 +4,9 @@
 
 ### Chrome extension: right-click to copy or download the regenerated privacy-enhanced image, and perform conversions for format, quality, scaling, and more.
 
-<img src="https://raw.githubusercontent.com/jackyr/image-privacy-guard/main/screenshots/demo.png" alt="demo1" width="320" height="200" />
-<img src="https://raw.githubusercontent.com/jackyr/image-privacy-guard/main/screenshots/demo1.png" alt="demo2" width="320" height="200" />
-<img src="https://raw.githubusercontent.com/jackyr/image-privacy-guard/main/screenshots/demo2.png" alt="demo3" width="320" height="200" />
+<img src="https://github.com/jackyr/image-privacy-guard/blob/main/screenshots/demo.png?raw=true" alt="demo1" width="320" height="200" />
+<img src="https://github.com/jackyr/image-privacy-guard/blob/main/screenshots/demo1.png?raw=true" alt="demo2" width="320" height="200" />
+<img src="https://github.com/jackyr/image-privacy-guard/blob/main/screenshots/demo2.png?raw=true" alt="demo3" width="320" height="200" />
 
 #### Image Privacy Guard aims to quickly generate new images with one click, remove metadata (which may include GPS and other private information), and generate a different hash value from the original image to enhance the privacy protection capability of the image.
 

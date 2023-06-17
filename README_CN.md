@@ -2,9 +2,9 @@
 
 ### Chrome扩展：右键点击以复制或下载重新生成的隐私增强图像，并可进行格式、质量、缩放等转换。
 
-<img src="https://raw.githubusercontent.com/jackyr/image-privacy-guard/main/screenshots/demo3.png" alt="demo1" width="320" height="200" />
-<img src="https://raw.githubusercontent.com/jackyr/image-privacy-guard/main/screenshots/demo4.png" alt="demo2" width="320" height="200" />
-<img src="https://raw.githubusercontent.com/jackyr/image-privacy-guard/main/screenshots/demo5.png" alt="demo3" width="320" height="200" />
+<img src="https://github.com/jackyr/image-privacy-guard/blob/main/screenshots/demo3.png?raw=true" alt="demo1" width="320" height="200" />
+<img src="https://github.com/jackyr/image-privacy-guard/blob/main/screenshots/demo4.png?raw=true" alt="demo2" width="320" height="200" />
+<img src="https://github.com/jackyr/image-privacy-guard/blob/main/screenshots/demo5.png?raw=true" alt="demo3" width="320" height="200" />
 
 #### 图片隐私卫士旨在通过一键快速生成新的图片，去除元信息（可能包含GPS等隐私信息），并生成与原图不同的哈希值，以提升图片的隐私保护能力。
 
